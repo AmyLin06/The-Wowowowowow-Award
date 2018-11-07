@@ -1,0 +1,25 @@
+body{
+    background: url("https://ak3.picdn.net/shutterstock/videos/1011826073/thumb/1.jpg"); 
+    background-size: 1100px;
+    text-align: center;
+}
+p{
+    color: gold;
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    color: gold;
+    font-family: 'Lobster', cursive;
+}
+.drink{
+    width: 300px;
+}
+.anime{
+    width: 350px;
+}
+.drama{
+    width: 350px;
+}
+.comedian{
+    width: 300px;
+}
